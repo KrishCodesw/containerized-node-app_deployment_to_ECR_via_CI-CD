@@ -8,7 +8,7 @@ env:
   # CHANGE THIS: The name of your ECR repository
   ECR_REPOSITORY: "krish/node-app"
   # CHANGE THIS: The AWS region your ECR repository is in
-  AWS_REGION: "ap-south-1"
+  AWS_REGION: "eu-north-1"
 
 
 jobs:
