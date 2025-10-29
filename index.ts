@@ -6,7 +6,7 @@ app.get("/cpu", (req, res) => {
 	for (let i = 0; i < 100000000; i++) {
 		Math.random();
 	}
-	res.send("Hello world");
+	res.send("Hello world Hi");
 });
 
 app.get("/", (req, res)=>{
